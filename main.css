@@ -1,0 +1,12 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
+body {
+  background-color: #B399D4;
+  font-family: "Poppins", sans-serif;
+  padding: 2em;
+  color: #F5E1FD;
+}
+.mainMsg {
+  padding-left: 2.5em;
+
+}
